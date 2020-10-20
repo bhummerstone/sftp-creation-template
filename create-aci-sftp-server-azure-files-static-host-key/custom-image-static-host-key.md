@@ -1,0 +1,1 @@
+Guidance for creating custom image with static host keys
